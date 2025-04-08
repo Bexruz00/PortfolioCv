@@ -10,7 +10,7 @@ const LangConfig = () => {
   const pathname = usePathname();
 
   useEffect(() => {
-    const locale = getCookie("NEXT_LOCALE") || "uz";
+    const locale = getCookie("NEXT_LOCALE") || "ru";
     if (locale === "uz" || locale === "ru" || locale === "en") {
       setLang(locale);
     }
