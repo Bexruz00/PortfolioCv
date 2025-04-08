@@ -1,0 +1,54 @@
+{
+  "Header":{
+    "home": "Asosiy",
+    "resume": "Rezyume",
+    "service": "Servis",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact" : "Bog'lanish"
+  },
+  "Hero":{
+    "name": "Bexruz Barnoyev",
+    "name_title": "Creative Web & Frontend Developer",
+    "name_subtitle": "Salom, mening ismim Bexruz Barnoyev va men kreativ mahsulotlar yaratish orqali hayotni oson qilish orzusida bo‘lgan ijodiy veb dastursichisiman",
+    "hero_btn": "CV Yuklash"
+  },
+  "Services":{
+    "service_subtitle": "Men taqdim etayotgan xizmatlar",
+    "service_title": "Xizmatlar",
+    "service_about": "Men sizning brendingiz uslubini ta'kidlaydigan va maqsadli auditoriyangiz e'tiborini tortadigan noyob dizaynga ega zamonaviy, sezgir veb-saytni ishlab chiqaman.",
+    "service_card_subtitle": "Men sizning brendingiz shaxsini ta'kidlaydigan zamonaviy va sezgir veb-sayt yarataman",
+    "service_sitetitle": "Veb-sayt",
+    "service_markettitle": "SEO-Marketing",
+    "service_commercetitle": "eCommerce",
+    "service_developertitle": "Dasturchi",
+    "service_digitaltitle": "Raqamli marketing",
+    "service_mediatitle": "Ijtimoiy tarmoqlar"
+  },
+  "Skills":{
+    "skills_title": "Men raqamli kelajakni yarataman.",
+    "skills_subtitle": "Men kelajakni yengillashtiraman",
+    "skills_massage": "HTML, CSS, JavaScript va zamonaviy ramkalar — ayniqsa React bilan mustahkam ishlash tajribasiga egaman, bu esa interaktiv va jozibali foydalanuvchi interfeyslarini yaratishga imkon beradi.",
+    "skills_info": "Moslashuvchan (responsive) va barcha brauzerlar uchun qulay veb-saytlar yaratishda tajribam bor, foydalanuvchi tajribasi (UX) va yuklanish tezligiga alohida e’tibor beraman."
+  },
+  "Portfolio": {
+    "portfolio_title": "Portfolio",
+    "portfolio_subtitle": "Yaratgan loyihalarim",
+    "portfolio_info": "Portfoliodagi ishlarim orqali siz mening funksional, responsiv va estetik jihatdan mukammal saytlar yaratish borasidagi tajribam bilan tanishishingiz mumkin. Har bir loyiha foydalanuvchi ehtiyojlari va mijoz talablari asosida ishlab chiqilgan bo‘lib, zamonaviy dizayn va texnologiyalarni o‘zida mujassam etgan."
+  },
+  "Blog": {
+    "blog-title": "Mening blogim",
+    "blog-subtitle": "Oxirgi maqolalar",
+    "blog-infoTitle": "Akademiya VO IT bilan boshlash.",
+    "blog-informationTitle": "'Najot ta'lim' bilan davom ettirish.",
+    "blog-info": "Web dasturlashga maktabning 11 sinfida o'qishni boshlaganimda kirib kelganman va shu sohaning boshlang'ich ko'nikmalarini VO IT akademiyasida o'zlashtirdim",
+    "blog-information": "2024 yilning oxirida sohaning chuqurroq o'rganish maqsadida 'Najot Ta'lim' o'quv markazing jamoasiga kelib qo'shildim ",
+    "blog-btn": "Ko'proq o'qish"
+  },
+  "Footer": {
+    "footer_touch": "Bog'lanish",
+    "footer_location": "Manzil",
+    "footer_tashkent": "O'zbekiston — Toshkent",
+    "footer_navai": "O'zbekiston — Zarafshon"
+  }
+}

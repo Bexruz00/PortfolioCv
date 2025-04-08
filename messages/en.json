@@ -1,0 +1,54 @@
+{
+  "Header":{
+    "home": "Home",
+    "resume": "Resume",
+    "service": "Service",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact" : "Contact"
+  },
+  "Hero":{
+    "name": "Bekhruz Barnoyev",
+    "name_title": "Creative Web & Frontend Developer",
+    "name_subtitle": "Hi, I’m Bexruz Barnoyev and I am creative web & app developer who dream making the world better place by creating captivating products.",
+    "hero_btn": "Download CV"
+  },
+  "Services":{
+    "service_subtitle": "Services That I Provide",
+    "service_title": "Services",
+    "service_about": "Phasellus et lacus suscipit congue nisl the volutpat magna. donec miss the drana risus tincidunt convallis velit orci congue tortor eu dignissim ipsum suam non odio. Pellenta esuntion miss the imperdiet metus ornare.",
+    "service_card_subtitle": "Website ravida surna eveti semen the conse tusio anivite dianne one nivam acestion vue artin dictum.",
+    "service_sitetitle": "Website",
+    "service_markettitle": "SEO Marketing",
+    "service_commercetitle": "eCommerce",
+    "service_developertitle": "Developer",
+    "service_digitaltitle": "Digital Marketing",
+    "service_mediatitle": "Social Media"
+  },
+  "Skills":{
+    "skills_title": "I Develop & Create Digital Future.",
+    "skills_subtitle": "I Make The Future",
+    "skills_massage": "Confident in working with HTML, CSS, JavaScript, and modern frameworks—especially React—allowing me to build dynamic and visually engaging user interfaces.",
+    "skills_info": "Experienced in developing responsive, cross-browser websites with a strong focus on user experience, clean design, and fast loading times."
+  },
+  "Portfolio": {
+    "portfolio_title": "Portfolio",
+    "portfolio_subtitle": "My Works",
+    "portfolio_info": "Through my portfolio, you can explore a collection of functional, responsive, and visually appealing websites that reflect my skills and creativity. Each project is crafted with a deep understanding of user needs and client goals, combining modern design trends with cutting-edge technologies."
+  },
+  "Blog": {
+    "blog-title": "My Blog",
+    "blog-subtitle": "Recent Articles",
+    "blog-infoTitle": "Get Started With VO IT lessons.",
+    "blog-informationTitle": "Continuation with 'Najot Ta'lim'",
+    "blog-info": "I got into web programming when I started studying in the 11th grade of school and mastered the basic skills of this field at the VO IT Academy.",
+    "blog-information": "At the end of 2024, I joined the team of the 'Najot Ta'lim' training center to learn more about the field.",
+    "blog-btn": "Read More"
+  },
+  "Footer": {
+    "footer_touch": "Get in touch",
+    "footer_location": "Locations",
+    "footer_tashkent": "Uzbekistan — Tashkent",
+    "footer_navai": "Uzbekistan — Zarafshan"
+  }
+}
