@@ -14,11 +14,10 @@ const Hero = () => {
           <Image priority src="/hero-banner.jpg" width={800} height={800} alt={"Bexruz Barnoyev"}/>
         </div>
         <p className="section-text">{t("name_subtitle")}</p>
-        <a href="/ResumesCv.pdf" className="btn has-before" download={"ResumesCv.pdf"}>
+          <a href="/ResumesCv.pdf" className="btn has-before" download={"ResumesCv.pdf"}>
           <span className="span">{t("hero_btn")}</span>
         </a>
       </div>
-
     </div>
     </section>
   )
